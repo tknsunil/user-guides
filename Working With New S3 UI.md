@@ -3,6 +3,8 @@ title: Working with the New S3 bucket UI
 description: A guide 
 ---
 
+# Working with the New S3 bucket UI
+
 A new UI interface was introduced and deployed from February 2025 for S3 buckets in AFID's cloud dashboard. Here are the changes and the new features introduced and the first guide to using them properly. 
 
 ### **New S3 Buckets Page**
